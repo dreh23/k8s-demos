@@ -1,0 +1,31 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: nginx-blub
+  annotations:
+    external-dns.alpha.kubernetes.io/hostname: blub.endocodelab.com
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+    targetPort: 80
+  selector:
+    app: nginx-blub
+
+---
+
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: nginx-blub
+spec:
+  template:
+    metadata:
+      labels:
+        app: nginx-blub
+    spec:
+      containers:
+      - image: nginx
+        name: nginx
+        ports:
+        - containerPort: 80

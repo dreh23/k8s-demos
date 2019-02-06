@@ -1,0 +1,20 @@
+apiVersion: certmanager.k8s.io/v1alpha1
+kind: Certificate
+metadata:
+  name: gcp-endocodelab-acme
+  namespace: kube-system
+spec:
+  secretName: endocodelab-demo-letsencrypt
+  issuerRef:
+    name: endococdelab-io-issuer
+    kind: ClusterIssuer
+  commonName: '*.endocodelab.com'
+  dnsNames:
+  - endocodelab.com
+  acme:
+    config:
+    - dns01:
+        provider: clouddns
+      domains:
+      - '*.endocodelab.com'
+      - endocodelab.com

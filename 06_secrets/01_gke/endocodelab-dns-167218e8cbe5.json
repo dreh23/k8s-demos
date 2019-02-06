@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "endocodelab-dns",
+  "private_key_id": "167218e8cbe5428c947f915ef162fa7e3d47e3d5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQChzs2hULOf7w3s\nFgq2Ep1OQm5f+WSa6WZpJbtdL477bZX4o4fAyrZ+kDUYe2+7PTJ4r5D37If1pDCs\nzSd8JS+4GM2KGl3kLOFZTVbl02dzR0axgURSR18y7CCer090iajmRNvDqSd0zG3s\nuyYSwoHeo1YbWjcaYbj4ury0XlsyaX8GPejwtsfx2Hq82Vbg1gCN12oddmEquCqb\n52lZLwpkmpAtQUi3F6j/ri20uPwBZl83tIu80NXqKBQ9BscRM8KLDTEy384TfUuN\nk/jSIIAfQeYeasvNWbYZYYaIEizOWw5pl60s48Uv3lZrA2VzaOIPiD8HMGzocfEO\nnaRs19fxAgMBAAECggEACYBY8iGzWoSGvxfllclus/C8sHq23fiEoKSsOuLsX3aQ\n5DfIue5tXEM1ivQnRx8R0/pjOzEIJB7PE5E8bKghBDYYo6+8AbEM+S8hwinGx63Q\nyI2RqHnebOFmt6ANvLHKBDODlXAHtsO7qgysm1S78Ynf0t1aTPyeCE+sKF8+CwNa\nNd7vyegVT6Ehry2AJFMPwx+JeHbZfGdGkcbqjMTxKX0rFyr8rw5MkSwuXGm7OaHS\nMIPoHGVPZPExXXzYUrNUoCWidn42UIl9x+LVJCVDv+/a1pJXMihxan4ysE7pg6a5\nEuZlqKj2C+YNAzusraQUph1InGnKDNt25Danuz+KbQKBgQDdWlcZhzFMI0J3178T\nJ81nMZ1bKx7APfwwUhJom3ixKbsHmzuosMUU92lmzv2WdoLSIrEb4LkGQ2qIrshf\nj/J1qUlXrvq5SvHoMOtfzRnNQg+tPuL/h0YW52OzyR/QyDbVIWeQFW2ng5IUN3VZ\n6zF4zlRVKgbq8zLZjtEgbbkorwKBgQC7InqZ30ZAMy6/cWLGVwKx6rhHOXSdDLP5\ngkFHiq3cRb0aV75HWP0fRsWjtkBJtkfP5HfJgv3b9p3niGuQOYAkZ5GEqyok5gEt\nkIytwP2/T/7hxGChu5nqFNu1Fm2MZH+qdiVMwx09TXmWnxkPdUYMiCRo8RHtjE55\npBsasrvxXwKBgQCAV7Qu0gtMWRleAVMBmU9oaQUS6mKPFqGVptCTpKmLF2YhF+m0\neqIa8QVFHfk894QMsR69ykOdlRM9IxJ9DiqH/FrRI1yuePzgIxUmW/Z847PRQKg/\nfsCt4QYXJSN0W9InK5Ivoa0NtqTJYgqB03PA1ulg49hU/CPcrwkkY1o7cwKBgGTO\npgzN4iIjcENg6Ty/EoyVTL/Ri6gud6UpLdFEO3Q1fTD7o1z76x82GLGgM/GBaB3t\njTnYfrhHmbhoHMmMsCLsR8+YBRPrcycAf0f6drbgeQVVrFhznu4iXlimxEyktsE0\n89LuKIoleiJRgkZ5fkqx7Cs78dRtiLiuVouDTQsxAoGADpltvXMhMXIc9ZSAUKGJ\nAtlxJBMD2BjWR0+9wKkM0Mu0udJmaEqce/igXVvydhTGdeJNBYQgmJMgpPcbqChT\na9awLyogIyTv/E1BktnGFFcX742xuPUSyszk5vNL/XIL/nkvKowKr+V0V2VBn1eU\nNEGMqdMyNPnD+oIAuCb2rOI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcp-endocode-dns@endocodelab-dns.iam.gserviceaccount.com",
+  "client_id": "113683794670477461069",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcp-endocode-dns%40endocodelab-dns.iam.gserviceaccount.com"
+}
